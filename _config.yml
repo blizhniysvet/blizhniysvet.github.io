@@ -1,1 +1,16 @@
+title: blizhniy-svet.ru
+description: Полезные статьи про лампы ближнего и дальнего света
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
 theme: jekyll-theme-cayman
