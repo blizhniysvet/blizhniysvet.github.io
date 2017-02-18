@@ -25,7 +25,7 @@ published: true
 Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★✩ | [Купить](https://goo.gl/E9QzNY)
 Bosch Plus 90 | увеличенный срок службы | ★★★★✩ | [Купить](https://goo.gl/Ox98tk)
 Philips VisionPlus | увеличенная яркость, увеличенная зона освещения | ★★★★★ | [Купить](https://goo.gl/RnAlx3)
-Narva RangePower +110 | увеличенная яркость | ★★★★★ | [Купить](https://goo.gl/8MXPyU)
+Narva RangePower +110 | увеличенная яркость | ★★★★✩ | [Купить](https://goo.gl/8MXPyU)
 Philips X-treme Vision | самые яркие, дают белый свет, почти без оттенков | ★★★★★ | [Купить](https://goo.gl/YkZu5j)
 
 
