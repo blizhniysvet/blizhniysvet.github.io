@@ -14,3 +14,5 @@ exclude:
   - README.md
   - CNAME
 theme: jekyll-theme-cayman
+
+google_analytics: UA-92228138-1
