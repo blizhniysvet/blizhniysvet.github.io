@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Лучшие лампы ближнего и дальнего света на Солярис
 published: true
 ---
