@@ -1,60 +1,63 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="utf-8" />
+<head>
+    <meta charset="utf-8"/>
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="description" content="{{ page.excerpt| strip_html }}"/>
+    <meta property="og:description" content="{{ page.excerpt| strip_html }}"/>
     {% else %}
     <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:description" content="{{ site.description }}"/>
     {% endif %}
-    <meta name="author" content="{{ site.url }}" />
+    <meta name="author" content="{{ site.url }}"/>
     {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="twitter:title" content="{{ page.title }}"/>
     {% endif %}
     <title>{{ page.title | default: site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="yandex-verification" content="15d3723d8a8c8a2a" />
-    <meta name="google-site-verification" content="qmr10rpd_vtBI8qHVM1cu4Ol8C2HxFk95QnmzAE2x58" />
-  </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">{{ site.title }}</h1>
-      <h2 class="project-tagline">{{ site.description }}</h2>
-        <a href="{{ site.url }}/" class="btn">На главную</a>
-        <a href="{{ site.url }}/about" class="btn">О сайте</a>
-        <a href="{{ site.url }}/contacts" class="btn">Контакты</a>
-    </section>
+    <meta name="yandex-verification" content="15d3723d8a8c8a2a"/>
+    <meta name="google-site-verification" content="qmr10rpd_vtBI8qHVM1cu4Ol8C2HxFk95QnmzAE2x58"/>
+</head>
+<body>
+<section class="page-header">
+    <h1 class="project-name">{{ site.title }}</h1>
+    <h2 class="project-tagline">{{ site.description }}</h2>
+    <a href="{{ site.url }}/" class="btn">На главную</a>
+    <a href="{{ site.url }}/about" class="btn">О сайте</a>
+    <a href="{{ site.url }}/contacts" class="btn">Контакты</a>
+</section>
 
-    <section class="main-content">
+<section class="main-content">
 
-      {{ content }}
+    {{ content }}
 
-      <footer class="site-footer">
+    <footer class="site-footer">
         {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a
+                href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
         <span class="site-footer-credits">Хороших дорог и приятных поездок!</span>
-      </footer>
-    </section>
+    </footer>
+</section>
 
-    {% if site.google_analytics %}
-      <script type="text/javascript">
+{% if site.google_analytics %}
+<script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-      </script>
-      <script type="text/javascript">
+
+</script>
+<script type="text/javascript">
         try {
           var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
         pageTracker._trackPageview();
         } catch(err) {}
-      </script>
-    {% endif %}
-  </body>
+
+</script>
+{% endif %}
+</body>
 </html>
