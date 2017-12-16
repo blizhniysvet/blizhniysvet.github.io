@@ -27,7 +27,7 @@ published: true
 ------------ | ------------- |------|---
 Philips X-treme Vision | очень яркие | ★★★★★ | [Купить](https://goo.gl/DpvnFD)
 Philips LongLife EcoVision | недорогие и долговечные | ★★★★✩ | [Купить](https://goo.gl/hsXwA4)
-Bosch Pure light | недорогие, универсальная замена штатным лампам | ★★★★✩ | [Купить](https://goo.gl/uoiaez)
+Bosch Pure light | недорогие, универсальная замена штатным лампам | ★★★★✩ | [Купить](https://goo.gl/brssGS)
 
 ### Philips X-treme Vision — самые яркие лампочки ближнего света
 
