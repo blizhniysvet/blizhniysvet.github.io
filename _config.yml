@@ -18,8 +18,3 @@ theme: jekyll-theme-cayman
 google_analytics: UA-92228138-1
 
 url: http://blizhniy-svet.ru
-
-sitemap:
-    filename: "/sitemap.xml"
-    exclude:
-        - "/c4e8e63c66a8.html"
