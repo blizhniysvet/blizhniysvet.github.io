@@ -17,7 +17,26 @@ published: true
 
 ## Подбор ламп по авто
 
-- [Skoda Rapid](//blizhniy-svet.ru/2018/03/21/Lampy-blizhnego-sveta-na-rapid.html)
+- [Газель](//blizhniy-svet.ru/2018/01/19/Lampy-blizhnego-sveta-na-gazel.html)
 - Лада
+  - [Веста](//blizhniy-svet.ru/2018/02/20/Lampy-blizhnego-sveta-na-vestu.html)
+  - [Гранта](//blizhniy-svet.ru/2018/01/25/Lampy-blizhnego-sveta-na-grantu.html)
   - [Ларгус](//blizhniy-svet.ru/2018/03/20/Lampy-blizhnego-sveta-na-largus.html)
+  - [Нива 4×4](//blizhniy-svet.ru/2018/01/12/Lampy-blizhnego-sveta-na-nivu.html)
+  - [Приора](//blizhniy-svet.ru/2018/01/15/Lampy-blizhnego-sveta-na-prioru.html)
 - [УАЗ Патриот](//blizhniy-svet.ru/2018/03/22/Lampy-blizhnego-sveta-na-patriot.html)
+- [Chevrolet Cruze](//blizhniy-svet.ru/2018/01/14/Lampy-blizhnego-sveta-na-cruze.html)
+- [Daewoo Nexia](//blizhniy-svet.ru/2018/01/26/Lampy-blizhnego-sveta-na-nexia.html)
+- [Hyundai Solaris](//blizhniy-svet.ru/2017/02/15/Lampy-blizhnego-sveta-na-solaris.html)
+- Kia
+  - [Cee'd](//blizhniy-svet.ru/2018/01/11/Lampy-blizhnego-sveta-na-ceed.html)
+  - [Rio](//blizhniy-svet.ru/2017/12/06/Lampy-blizhnego-sveta-na-kia-rio.html)
+- [Nissan Qashqai](//blizhniy-svet.ru/2018/02/09/Lampy-blizhnego-sveta-na-qashqai.html)
+- Renault
+  - [Duster](//blizhniy-svet.ru/2017/12/16/Lampy-blizhnego-sveta-na-duster.html)
+  - [Logan](//blizhniy-svet.ru/2017/03/12/Lampy-blizhnego-sveta-na-logan.html)
+- Skoda
+  - [Octavia](//blizhniy-svet.ru/2018/02/08/Lampy-blizhnego-sveta-na-octavia.html)
+  - [Rapid](//blizhniy-svet.ru/2018/03/21/Lampy-blizhnego-sveta-na-rapid.html)
+- [Toyota RAV4](//blizhniy-svet.ru/2018/02/04/Lampy-blizhnego-sveta-na-rav4.html)
+- [Volkswagen Polo Sedan](//blizhniy-svet.ru/2017/02/25/Lampy-blizhnego-sveta-na-polo-sedan.html)
