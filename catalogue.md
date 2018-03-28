@@ -35,6 +35,7 @@ published: true
 - Renault
   - [Duster](//blizhniy-svet.ru/2017/12/16/Lampy-blizhnego-sveta-na-duster.html)
   - [Logan](//blizhniy-svet.ru/2017/03/12/Lampy-blizhnego-sveta-na-logan.html)
+  - [Sandero](//blizhniy-svet.ru/2018/03/28/Lampy-blizhnego-sveta-na-sandero.html)
 - Skoda
   - [Octavia](//blizhniy-svet.ru/2018/02/08/Lampy-blizhnego-sveta-na-octavia.html)
   - [Rapid](//blizhniy-svet.ru/2018/03/21/Lampy-blizhnego-sveta-na-rapid.html)
