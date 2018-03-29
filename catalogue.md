@@ -39,5 +39,7 @@ published: true
 - Skoda
   - [Octavia](//blizhniy-svet.ru/2018/02/08/Lampy-blizhnego-sveta-na-octavia.html)
   - [Rapid](//blizhniy-svet.ru/2018/03/21/Lampy-blizhnego-sveta-na-rapid.html)
-- [Toyota RAV4](//blizhniy-svet.ru/2018/02/04/Lampy-blizhnego-sveta-na-rav4.html)
+- Toyota
+  - [Camry](//blizhniy-svet.ru/2018/03/29/Lampy-blizhnego-sveta-na-camry.html)
+  - [RAV4](//blizhniy-svet.ru/2018/02/04/Lampy-blizhnego-sveta-na-rav4.html)
 - [Volkswagen Polo Sedan](//blizhniy-svet.ru/2017/02/25/Lampy-blizhnego-sveta-na-polo-sedan.html)
