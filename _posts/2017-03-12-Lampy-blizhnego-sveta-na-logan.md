@@ -34,6 +34,8 @@ Philips WhiteVision | яркий белый свет | ★★★★✩ | [Куп
 
 ### Philips LongLife EcoVision
 
+{% include philips-eco-h4.html %}
+
 Особенности, заявленные производителем:
 
 - кварцевое стекло высокой прочности,
