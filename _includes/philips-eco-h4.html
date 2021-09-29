@@ -4,13 +4,14 @@
     (function (w) {
         function start() {
             w.removeEventListener("YaMarketAffiliateLoad", start);
-            w.YaMarketAffiliate.createWidget({containerId:"marketWidget2",
-	type:"offers",
-	params:{clid:2364841,
+            w.YaMarketAffiliate.createWidget({type:"offers",
+	containerId:"marketWidget2",
+	fallback:true,
+	params:{clid:2474888,
+		vid:"20",
+		searchCount:3,
 		searchModelIds:[553235149 ],
-		searchLocalOffersFirst:true,
-		themeId:2 },
-	rotate:{marketToBeru:true } });
+		themeId:2 } });
         }
         w.YaMarketAffiliate
             ? start()
@@ -18,4 +19,5 @@
     })(window);
 </script>
 <!-- End Yandex.Market Widget -->
+
 <div id="marketWidget2"></div>
