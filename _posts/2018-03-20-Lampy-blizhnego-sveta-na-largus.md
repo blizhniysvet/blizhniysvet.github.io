@@ -31,7 +31,7 @@ Philips LongLife EcoVision | недорогая, увеличенный срок
 Bosch Pure Light | увеличенный срок службы | ★★★★✩ | [Купить](https://ya.cc/m/p6PR6)
 Osram Original Line | хорошая зона освещения | ★★★★✩ | [Купить](https://ya.cc/m/p6e64)
 
-### Philips X-treme Vision — самые яркие лампочки
+### Philips X-treme Vision — самые яркие лампа ближнего и дальнего света на Ларгус
 
 Особенности, заявленные производителем:
 
@@ -146,7 +146,7 @@ Philips X-treme Vision | ну, очень яркие | ★★★★★ | [Куп
 Bosch Xenon Blue | яркий свет бело-голубого оттенка | ★★★★✩ | [Купить](https://ya.cc/m/p6Wt8)
 Philips LongLife EcoVision | недорогие и долговечные | ★★★★✩ | [Купить](https://ya.cc/m/p6WJC)
 
-### Philips X-treme Vision — самые яркие лампочки ближнего света на Largus рестайлинг
+### Philips X-treme Vision — самые яркие лампочки ближнего света на Ларгус рестайлинг
 
 Особенности, заявленные производителем:
 
