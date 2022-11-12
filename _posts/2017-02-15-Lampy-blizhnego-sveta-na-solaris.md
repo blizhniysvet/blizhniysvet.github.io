@@ -34,7 +34,7 @@ last_modified_at: 2021-10-07
 | Bosch Plus 90              | увеличенный срок службы            | ★★★★✩   | [Купить](https://ya.cc/m/p63fr) |
 | Philips VisionPlus         | хорошая яркость и зона освещения   | ★★★★★   | [Купить](https://ya.cc/m/p64zC) |
 | Narva RangePower +110      | высокая яркость                    | ★★★★✩   | [Купить](https://ya.cc/m/p66ei) |
-| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/p6F5G) |
+| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/3k9kYK) |
 
 ### Philips LongLife EcoVision
 
@@ -163,7 +163,7 @@ last_modified_at: 2021-10-07
 
 Победитель теста Auto Express. По результатам измерений граница яркого светового пятна — в 75 метрах от автомобиля.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6F5G)**.
+**[Узнать цены и наличие](https://ya.cc/m/3k9kYK)**.
 
 ### Сравнение цен на лампочки обычных фар
 
