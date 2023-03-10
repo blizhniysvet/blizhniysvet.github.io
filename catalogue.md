@@ -28,7 +28,9 @@ published: true
 - [Chevrolet Cruze](//blizhniy-svet.ru/2018/01/14/Lampy-blizhnego-sveta-na-cruze.html)
 - [Daewoo Nexia](//blizhniy-svet.ru/2018/01/26/Lampy-blizhnego-sveta-na-nexia.html)
 - [Ford Focus](//blizhniy-svet.ru/2018/04/02/Lampy-blizhnego-sveta-na-focus.html)
-- [Hyundai Solaris](//blizhniy-svet.ru/2017/02/15/Lampy-blizhnego-sveta-na-solaris.html)
+- Hyundai
+  - [Creta](//blizhniy-svet.ru/2023/03/10/Lampy-blizhnego-sveta-na-cretu.html)
+  - [Solaris](//blizhniy-svet.ru/2017/02/15/Lampy-blizhnego-sveta-na-solaris.html)
 - Kia
   - [Cee'd](//blizhniy-svet.ru/2018/01/11/Lampy-blizhnego-sveta-na-ceed.html)
   - [Rio](//blizhniy-svet.ru/2017/12/06/Lampy-blizhnego-sveta-na-kia-rio.html)
