@@ -3,7 +3,7 @@ layout: post
 title: Лучшие лампы ближнего и дальнего света на Поло седан
 published: true
 toc: true
-last_modified_at: 2020-09-01
+last_modified_at: 2023-03-10
 ---
 
 Подборка лучших ламп для замены ближнего и дальнего света в Volkswagen Polo sedan. В конце статьи — сравнение цен.
