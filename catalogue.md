@@ -24,6 +24,7 @@ published: true
   - [Ларгус](//blizhniy-svet.ru/2018/03/20/Lampy-blizhnego-sveta-na-largus.html)
   - [Нива 4×4](//blizhniy-svet.ru/2018/01/12/Lampy-blizhnego-sveta-na-nivu.html)
   - [Приора](//blizhniy-svet.ru/2018/01/15/Lampy-blizhnego-sveta-na-prioru.html)
+  - [XRAY](//blizhniy-svet.ru/2023/03/11/Lampy-blizhnego-sveta-na-xray.html)
 - [УАЗ Патриот](//blizhniy-svet.ru/2018/03/22/Lampy-blizhnego-sveta-na-patriot.html)
 - [Chevrolet Cruze](//blizhniy-svet.ru/2018/01/14/Lampy-blizhnego-sveta-na-cruze.html)
 - [Daewoo Nexia](//blizhniy-svet.ru/2018/01/26/Lampy-blizhnego-sveta-na-nexia.html)
