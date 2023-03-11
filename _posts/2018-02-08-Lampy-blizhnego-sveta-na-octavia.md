@@ -34,7 +34,7 @@ last_modified_at: 2021-10-07
 | Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/3k9kYK) |
 | Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★✩   | [Купить](https://ya.cc/m/p6DvM) |
 | Bosch Pure Light           | увеличенный срок службы            | ★★★★✩   | [Купить](https://ya.cc/m/p6PR6) |
-| Osram Original Line        | хорошая зона освещения             | ★★★★✩   | [Купить](https://ya.cc/m/p6e64) |
+| Osram Original Line        | хорошая зона освещения             | ★★★★✩   | [Купить](https://ya.cc/m/VXVgFWF) |
 
 ### Philips X-treme Vision
 
@@ -137,7 +137,7 @@ last_modified_at: 2021-10-07
 Что нам больше всего нравится: недорогие, хороший срок службы, страна производства.
 
 
-**[Узнать цены и наличие](https://ya.cc/m/p6e64)**.
+**[Узнать цены и наличие](https://ya.cc/m/VXVgFWF)**.
 
 ---
 
@@ -157,7 +157,7 @@ last_modified_at: 2021-10-07
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
 | Philips Vision             | оптимальное отношение цена—качество | ★★★★✩   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/p6bRL) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
 
 ### Bosch Gigalight
 
@@ -216,7 +216,7 @@ last_modified_at: 2021-10-07
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6bRL)**.
+**[Узнать цены и наличие](https://ya.cc/m/jOKjrlZ)**.
 
 ---
 
@@ -354,7 +354,7 @@ last_modified_at: 2021-10-07
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
 | Philips Vision             | оптимальное отношение цена—качество | ★★★★✩   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/p6bRL) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
 
 ### Bosch Gigalight
 
@@ -413,7 +413,7 @@ last_modified_at: 2021-10-07
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6bRL)**.
+**[Узнать цены и наличие](https://ya.cc/m/jOKjrlZ)**.
 
 ---
 

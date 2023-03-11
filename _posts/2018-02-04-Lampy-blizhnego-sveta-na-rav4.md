@@ -33,7 +33,7 @@ toc: true
 | Philips X-treme Vision     | самые яркие, дают белый свет                   | ★★★★★   | [Купить](https://ya.cc/m/3k9kYK) |
 | Philips LongLife EcoVision | недорогие, увеличенный срок службы             | ★★★★✩   | [Купить](https://ya.cc/m/p6DvM) |
 | Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6PR6) |
-| Osram Original Line        | хорошая зона освещения                         | ★★★★✩   | [Купить](https://ya.cc/m/p6e64) |
+| Osram Original Line        | хорошая зона освещения                         | ★★★★✩   | [Купить](https://ya.cc/m/VXVgFWF) |
 
 ### Philips X-treme Vision
 
@@ -141,7 +141,7 @@ toc: true
 
 Что нам больше всего нравится: недорогие, хороший срок службы, страна производства.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6e64)**.
+**[Узнать цены и наличие](https://ya.cc/m/VXVgFWF)**.
 
 ---
 
