@@ -15,6 +15,6 @@ exclude:
   - CNAME
 theme: jekyll-theme-cayman
 
-google_analytics: UA-92228138-1
+# google_analytics: UA-92228138-1
 
 url: https://blizhniy-svet.ru
