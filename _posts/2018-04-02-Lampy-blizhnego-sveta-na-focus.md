@@ -27,10 +27,10 @@ last_modified_at: 2019-11-26
 
 | Модель                     | Особенности                        | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------|---------|---------------------------------|
-| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/3k9kYK) |
-| Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★✩   | [Купить](https://ya.cc/m/p6DvM) |
-| Bosch Pure Light           | увеличенный срок службы            | ★★★★✩   | [Купить](https://ya.cc/m/p6PR6) |
-| Osram Original Line        | хорошая зона освещения             | ★★★★✩   | [Купить](https://ya.cc/m/VXVgFWF) |
+| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/PV1cwG5) |
+| Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/2Rw6kDT) |
+| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/p6PR6) |
+| Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/VXVgFWF) |
 
 ### Philips X-treme Vision — самые яркие лампочки на Фокус 1 (H4) 
 
@@ -66,7 +66,7 @@ last_modified_at: 2019-11-26
 
 > Лучший выбор покупателя.
 
-**[Узнать цены и наличие](https://ya.cc/m/3k9kYK)**.
+**[Узнать цены и наличие](https://ya.cc/m/PV1cwG5)**.
 
 ### Philips LongLife EcoVision — долговечные лампы на Форд Фокус 1
 
@@ -92,7 +92,7 @@ last_modified_at: 2019-11-26
 
 Что нам больше всего нравится: по цвету близки к штатным лампам, работать должны дольше обычных лампочек.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6DvM)**.
+**[Узнать цены и наличие](https://ya.cc/m/2Rw6kDT)**.
 
 
 ### Bosch Pure Light
@@ -158,9 +158,9 @@ last_modified_at: 2019-11-26
 | Модель                     | Особенности                                    | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                                | ★★★★★   | [Купить](https://ya.cc/m/3k9kk6) |
-| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★✩   | [Купить](https://ya.cc/m/p6WJC) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★✩   | [Купить](https://ya.cc/m/p6Wt8) |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6XiF) |
+| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/p6WJC) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★☆   | [Купить](https://ya.cc/m/p6Wt8) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6XiF) |
 
 ### Philips X-treme Vision — самые яркие лампочки на рестайлинговый Ford Focus 1
 
@@ -274,9 +274,9 @@ last_modified_at: 2019-11-26
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                     | ★★★★★   | [Купить](https://ya.cc/m/p6nrY) |
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★✩   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
-| Osram Original Line        | универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6ktz) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/p6ZfW) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6ktz) |
 
 ### Philips X-treme Vision — самые яркие лампочки дальнего света на рестайлинговый Ford Focus 1
 
@@ -406,7 +406,7 @@ last_modified_at: 2019-11-26
 | Модель         | Особенности                         | Рейтинг | Ссылка                          |
 |----------------|-------------------------------------|---------|---------------------------------|
 | Philips Vision | универсальная замена штатным лампам | ★★★★★   | [Купить](https://ya.cc/m/p6pvz) |
-| Narva Standart | соотношение цена-качество           | ★★★★✩   | [Купить](https://ya.cc/m/p6qCy) |
+| Narva Standart | соотношение цена-качество           | ★★★★☆   | [Купить](https://ya.cc/m/p6qCy) |
 
 ### Philips Vision 
 
@@ -464,9 +464,9 @@ last_modified_at: 2019-11-26
 | Модель                     | Особенности                                    | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                                | ★★★★★   | [Купить](https://ya.cc/m/3k9kk6) |
-| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★✩   | [Купить](https://ya.cc/m/p6WJC) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★✩   | [Купить](https://ya.cc/m/p6Wt8) |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6XiF) |
+| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/p6WJC) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★☆   | [Купить](https://ya.cc/m/p6Wt8) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6XiF) |
 
 ### Philips X-treme Vision — самые яркие лампочки ближнего света на Форд Фокус 2
 
@@ -580,9 +580,9 @@ last_modified_at: 2019-11-26
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                     | ★★★★★   | [Купить](https://ya.cc/m/p6nrY) |
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★✩   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
-| Osram Original Line        | универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6ktz) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/p6ZfW) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6ktz) |
 
 ### Philips X-treme Vision — самые яркие лампочки дальнего света на Форд Фокус 2
 
@@ -729,9 +729,9 @@ last_modified_at: 2019-11-26
 | Модель                     | Особенности                                    | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                                | ★★★★★   | [Купить](https://ya.cc/m/3k9kk6) |
-| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★✩   | [Купить](https://ya.cc/m/p6WJC) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★✩   | [Купить](https://ya.cc/m/p6Wt8) |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6XiF) |
+| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/p6WJC) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★☆   | [Купить](https://ya.cc/m/p6Wt8) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6XiF) |
 
 ### Philips X-treme Vision — самые яркие лампы ближнего света для Форд Фокус 3
 
@@ -845,9 +845,9 @@ last_modified_at: 2019-11-26
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                     | ★★★★★   | [Купить](https://ya.cc/m/p6nrY) |
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★✩   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
-| Osram Original Line        | универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6ktz) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/p6ZfW) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6ktz) |
 
 ### Philips X-treme Vision — самые яркие лампочки H1 на Форд Фокус 3
 

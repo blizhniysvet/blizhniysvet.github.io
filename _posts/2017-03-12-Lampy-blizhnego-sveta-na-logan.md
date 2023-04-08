@@ -30,10 +30,10 @@ last_modified_at: 2020-09-01
 
 | Модель                     | Особенности                        | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------|---------|---------------------------------|
-| Philips LongLife EcoVision | недорогие, увеличенный срок службы | ★★★★✩   | [Купить](https://ya.cc/m/p6DvM) |
-| Philips X-treme Vision     | ну, очень яркие                    | ★★★★★   | [Купить](https://ya.cc/m/3k9kYK) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка   | ★★★★✩   | [Купить](https://ya.cc/m/p6Y9D) |
-| Philips WhiteVision        | яркий белый свет                   | ★★★★✩   | [Купить](https://ya.cc/m/p6Yfd) |
+| Philips LongLife EcoVision | недорогие, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/2Rw6kDT) |
+| Philips X-treme Vision     | ну, очень яркие                    | ★★★★★   | [Купить](https://ya.cc/m/PV1cwG5) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка   | ★★★★☆   | [Купить](https://ya.cc/m/p6Y9D) |
+| Philips WhiteVision        | яркий белый свет                   | ★★★★☆   | [Купить](https://ya.cc/m/p6Yfd) |
 
 ### Philips LongLife EcoVision
 
@@ -57,7 +57,7 @@ last_modified_at: 2020-09-01
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6DvM)**.
+**[Узнать цены и наличие](https://ya.cc/m/2Rw6kDT)**.
 
 
 ### Philips X-treme Vision — самые яркие лампочки ближнего света на Logan 1
@@ -91,7 +91,7 @@ last_modified_at: 2020-09-01
 
 Победитель теста Auto Express. По результатам измерений граница яркого светового пятна — в 75 метрах от автомобиля.
 
-**[Узнать цены и наличие](https://ya.cc/m/3k9kYK)**.
+**[Узнать цены и наличие](https://ya.cc/m/PV1cwG5)**.
 
 
 ### Bosch Xenon Blue
@@ -146,8 +146,8 @@ last_modified_at: 2020-09-01
 | Модель                     | Особенности                      | Рейтинг | Ссылка                          |
 |----------------------------|----------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                  | ★★★★★   | [Купить](https://ya.cc/m/3k9kk6) |
-| Philips LongLife EcoVision | недорогие и долговечные          | ★★★★✩   | [Купить](https://ya.cc/m/p6WJC) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка | ★★★★✩   | [Купить](https://ya.cc/m/p6Wt8) |
+| Philips LongLife EcoVision | недорогие и долговечные          | ★★★★☆   | [Купить](https://ya.cc/m/p6WJC) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка | ★★★★☆   | [Купить](https://ya.cc/m/p6Wt8) |
 
 ### Philips X-treme Vision — самые яркие лампочки ближнего света на Logan 2
 
@@ -236,7 +236,7 @@ last_modified_at: 2020-09-01
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
 | Philips Vision             | оптимальное отношение цена—качество | ★★★★★   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
 
 ### Bosch Gigalight
 

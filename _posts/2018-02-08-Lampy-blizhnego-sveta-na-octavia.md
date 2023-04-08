@@ -31,10 +31,10 @@ last_modified_at: 2021-10-07
 
 | Модель                     | Особенности                        | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------|---------|---------------------------------|
-| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/3k9kYK) |
-| Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★✩   | [Купить](https://ya.cc/m/p6DvM) |
-| Bosch Pure Light           | увеличенный срок службы            | ★★★★✩   | [Купить](https://ya.cc/m/p6PR6) |
-| Osram Original Line        | хорошая зона освещения             | ★★★★✩   | [Купить](https://ya.cc/m/VXVgFWF) |
+| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/PV1cwG5) |
+| Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/2Rw6kDT) |
+| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/p6PR6) |
+| Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/VXVgFWF) |
 
 ### Philips X-treme Vision
 
@@ -70,7 +70,7 @@ last_modified_at: 2021-10-07
 
 > Лучший выбор покупателя.
 
-**[Узнать цены и наличие](https://ya.cc/m/3k9kYK)**.
+**[Узнать цены и наличие](https://ya.cc/m/PV1cwG5)**.
 
 ### Philips LongLife EcoVision
 
@@ -96,7 +96,7 @@ last_modified_at: 2021-10-07
 
 Что нам больше всего нравится: по цвету близки к штатным лампам, работать должны дольше обычных лампочек.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6DvM)**.
+**[Узнать цены и наличие](https://ya.cc/m/2Rw6kDT)**.
 
 
 ### Bosch Pure Light
@@ -156,8 +156,8 @@ last_modified_at: 2021-10-07
 | Модель                     | Особенности                         | Рейтинг | Ссылка                          |
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★✩   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/p6ZfW) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
 
 ### Bosch Gigalight
 
@@ -237,9 +237,9 @@ last_modified_at: 2021-10-07
 | Модель                     | Особенности                                    | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                                | ★★★★★   | [Купить](https://ya.cc/m/3k9kk6) |
-| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★✩   | [Купить](https://ya.cc/m/p6WJC) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★✩   | [Купить](https://ya.cc/m/p6Wt8) |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6XiF) |
+| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/p6WJC) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★☆   | [Купить](https://ya.cc/m/p6Wt8) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6XiF) |
 
 ### Philips X-treme Vision — самые яркие лампочки
 
@@ -353,8 +353,8 @@ last_modified_at: 2021-10-07
 | Модель                     | Особенности                         | Рейтинг | Ссылка                          |
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★✩   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/p6ZfW) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
 
 ### Bosch Gigalight
 
@@ -434,9 +434,9 @@ last_modified_at: 2021-10-07
 | Модель                     | Особенности                                    | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                                | ★★★★★   | [Купить](https://ya.cc/m/3k9kk6) |
-| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★✩   | [Купить](https://ya.cc/m/p6WJC) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★✩   | [Купить](https://ya.cc/m/p6Wt8) |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6XiF) |
+| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/p6WJC) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★☆   | [Купить](https://ya.cc/m/p6Wt8) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6XiF) |
 
 ### Philips X-treme Vision — самые яркие лампочки
 
@@ -550,8 +550,8 @@ last_modified_at: 2021-10-07
 | Модель                  | Особенности                                    | Рейтинг | Ссылка                          |
 |-------------------------|------------------------------------------------|---------|---------------------------------|
 | Osram Cool Blue Intense | яркий свет, похожий на ксенон                  | ★★★★★   | [Купить](https://ya.cc/m/shduU) |
-| Philips Standart        | недорогие, универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/sheT3) |
-| Osram Original Line     | недорогие и долговечные                        | ★★★★✩   | [Купить](https://ya.cc/m/shfaV) |
+| Philips Standart        | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/sheT3) |
+| Osram Original Line     | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/shfaV) |
 
 ### Osram Cool Blue Intense
 

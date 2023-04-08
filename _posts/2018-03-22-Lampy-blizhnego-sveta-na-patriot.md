@@ -25,9 +25,9 @@ toc: true
 | Модель                     | Особенности                                    | Рейтинг | Ссылка                          |
 |----------------------------|------------------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                                | ★★★★★   | [Купить](https://ya.cc/m/3k9kk6) |
-| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★✩   | [Купить](https://ya.cc/m/p6WJC) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★✩   | [Купить](https://ya.cc/m/p6Wt8) |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6XiF) |
+| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/p6WJC) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка               | ★★★★☆   | [Купить](https://ya.cc/m/p6Wt8) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6XiF) |
 
 ### Philips X-treme Vision — самые яркие лампочки
 
@@ -139,9 +139,9 @@ toc: true
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                     | ★★★★★   | [Купить](https://ya.cc/m/p6nrY) |
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★✩   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
-| Osram Original Line        | универсальная замена штатным лампам | ★★★★✩   | [Купить](https://ya.cc/m/p6ktz) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/p6ZfW) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6ktz) |
 
 ### Philips X-treme Vision — самые яркие лампочки
 

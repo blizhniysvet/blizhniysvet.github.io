@@ -51,8 +51,8 @@ last_modified_at: 2020-09-01
 | Модель                     | Особенности                      | Рейтинг | Ссылка                          |
 |----------------------------|----------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                  | ★★★★★   | [Купить](https://ya.cc/m/3k9kk6) |
-| Philips LongLife EcoVision | недорогие и долговечные          | ★★★★✩   | [Купить](https://ya.cc/m/p6WJC) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка | ★★★★✩   | [Купить](https://ya.cc/m/p6Wt8) |
+| Philips LongLife EcoVision | недорогие и долговечные          | ★★★★☆   | [Купить](https://ya.cc/m/p6WJC) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка | ★★★★☆   | [Купить](https://ya.cc/m/p6Wt8) |
 
 ### Philips X-treme Vision — самые яркие лампочки
 
@@ -139,7 +139,7 @@ last_modified_at: 2020-09-01
 |----------------------------|-------------------------------------|---------|---------------------------------|
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/p6ZFN) |
 | Philips Vision             | оптимальное отношение цена—качество | ★★★★★   | [Купить](https://ya.cc/m/p6ZfW) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★✩   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
 
 ### Bosch Gigalight
 
