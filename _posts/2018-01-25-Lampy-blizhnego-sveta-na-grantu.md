@@ -28,7 +28,7 @@ last_modified_at: 2020-08-30
 |----------------------------|------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/PV1cwG5) |
 | Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/2Rw6kDT) |
-| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/p6PR6) |
+| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/zF5hoHL) |
 | Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/VXVgFWF) |
 
 ### Philips X-treme Vision H4
@@ -108,7 +108,7 @@ last_modified_at: 2020-08-30
 Что нам больше всего нравится: недорогие, известный производитель.
 
 
-**[Цена и наличие](https://ya.cc/m/p6PR6)**.
+**[Цена и наличие](https://ya.cc/m/zF5hoHL)**.
 
 ### Osram Original Line H4
 

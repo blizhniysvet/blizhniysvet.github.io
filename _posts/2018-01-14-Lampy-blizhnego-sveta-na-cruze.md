@@ -31,7 +31,7 @@ last_modified_at: 2019-11-22
 |----------------------------|------------------------------------------------|---------|---------------------------------|
 | Philips X-treme Vision     | самые яркие, дают белый свет                   | ★★★★★   | [Купить](https://ya.cc/m/PV1cwG5) |
 | Philips LongLife EcoVision | недорогие, увеличенный срок службы             | ★★★★☆   | [Купить](https://ya.cc/m/2Rw6kDT) |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6PR6) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/zF5hoHL) |
 | Osram Original Line        | хорошая зона освещения                         | ★★★★☆   | [Купить](https://ya.cc/m/VXVgFWF) |
 
 ### Philips X-treme Vision — яркие лампы на Шевроле Круз
@@ -118,7 +118,7 @@ last_modified_at: 2019-11-22
 
 > Pure Light Bosch — типичная стандартная лампа. Все оценки — средние.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6PR6)**.
+**[Узнать цены и наличие](https://ya.cc/m/zF5hoHL)**.
 
 
 ### Osram Original Line
