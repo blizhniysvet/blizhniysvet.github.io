@@ -150,7 +150,7 @@ last_modified_at: 2019-01-29
 | Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/h4fbrnL) |
 | Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/S3XaSx0) |
 | Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
-| Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/p6ktz) |
+| Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/ZLb1nwh) |
 
 ### Bosch Gigalight
 
@@ -228,7 +228,7 @@ last_modified_at: 2019-01-29
 
 Что нам больше всего нравится: недорогие, хороший срок службы, страна производства.
 
-**[Узнать цены и наличие](https://ya.cc/m/p6ktz)**.
+**[Узнать цены и наличие](https://ya.cc/m/ZLb1nwh)**.
 
 ### Сравнение цен (дальний свет)
 
