@@ -3,7 +3,7 @@ layout: post
 title: Лучшие лампы ближнего и дальнего света на Газель и ГАЗель NEXT
 published: true
 toc: true
-last_modified_at: 2021-10-07
+last_modified_at: 2023-08-20
 ---
 
 Сравнение лучших ламп для замены ближнего и дальнего света для Газели.
