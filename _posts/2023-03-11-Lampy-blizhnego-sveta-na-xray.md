@@ -3,6 +3,7 @@ layout: post
 title: Лучшие лампы ближнего и дальнего света на Ладу XRAY
 published: true
 toc: true
+last_modified_at: 2023-08-26
 ---
 
 Выбираем лучшие лампы ближнего и дальнего света на LADA XRAY.
@@ -25,11 +26,11 @@ toc: true
 
 ### Быстрое сравнение: лучшие лампы ближнего света для Лады XRAY
 
-| Модель                     | Особенности                                    | Рейтинг | Ссылка                          |
-|----------------------------|------------------------------------------------|---------|---------------------------------|
-| Philips X-treme Vision     | очень яркие                                    | ★★★★★   | [Купить](https://ya.cc/m/kL4z8Dv)|
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/2LeMicI) |
-| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/qJ1zLUz) |
+| Модель                     | Особенности                                    | Рейтинг | Ссылка                                                     |
+|----------------------------|------------------------------------------------|---------|------------------------------------------------------------|
+| Philips X-treme Vision     | очень яркие                                    | ★★★★★   | [Купить](https://ya.cc/m/U9o5QUY?erid=4CQwVszL78EMgDCNVA1) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/bWUEKOK?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/KH2OuZF?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision — самые яркие лампы ближнего света на Икс рей H7
 
@@ -62,7 +63,7 @@ toc: true
 
 Победитель теста Auto Express. По результатам измерений граница яркого светового пятна — в 75 метрах от автомобиля.
 
-**[Узнать цены и наличие](https://ya.cc/m/kL4z8Dv)**.
+**[Узнать цены и наличие](https://ya.cc/m/U9o5QUY?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Bosch Pure light
 
@@ -87,7 +88,7 @@ toc: true
 
 > Pure Light Bosch — типичная стандартная лампа. Все оценки — средние.
 
-**[Узнать цены и наличие](https://ya.cc/m/2LeMicI)**.
+**[Узнать цены и наличие](https://ya.cc/m/bWUEKOK?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips LongLife EcoVision — долговечные лампочки ближнего света H7 на XRAY
 
@@ -109,7 +110,7 @@ toc: true
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/qJ1zLUz)**.
+**[Узнать цены и наличие](https://ya.cc/m/KH2OuZF?erid=4CQwVszL78EMgDCNVA1)**.
 
 ---
 
@@ -122,12 +123,12 @@ toc: true
 
 ### Быстрое сравнение: лучшие лампы дальнего света на XRAY 
 
-| Модель                     | Особенности                         | Рейтинг | Ссылка                          |
-|----------------------------|-------------------------------------|---------|---------------------------------|
-| Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/h4fbrnL) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/S3XaSx0) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
-| Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/ZLb1nwh) |
+| Модель                     | Особенности                         | Рейтинг | Ссылка                                                     |
+|----------------------------|-------------------------------------|---------|------------------------------------------------------------|
+| Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/GkkVoGg?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1) |
+| Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/ALCbGII?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Bosch Gigalight
 
@@ -140,7 +141,7 @@ toc: true
 
 Что нам больше всего нравится: яркий белый свет, и это же Бош!
 
-**[Узнать цены и наличие](https://ya.cc/m/h4fbrnL)**.
+**[Узнать цены и наличие](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips Vision
 
@@ -162,7 +163,7 @@ toc: true
 
 Что нам больше всего нравится: соотношение цена-качество.
 
-**[Узнать цены и наличие](https://ya.cc/m/S3XaSx0)**.
+**[Узнать цены и наличие](https://ya.cc/m/GkkVoGg?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Philips LongLife EcoVision
@@ -186,7 +187,7 @@ toc: true
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/jOKjrlZ)**.
+**[Узнать цены и наличие](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Osram Original Line
 
@@ -207,7 +208,7 @@ toc: true
 
 Что нам больше всего нравится: недорогие, хороший срок службы, страна производства.
 
-**[Узнать цены и наличие](https://ya.cc/m/ZLb1nwh)**.
+**[Узнать цены и наличие](https://ya.cc/m/ALCbGII?erid=4CQwVszL78EMgDCNVA1)**.
 
 ## Часто задаваемые вопросы
 

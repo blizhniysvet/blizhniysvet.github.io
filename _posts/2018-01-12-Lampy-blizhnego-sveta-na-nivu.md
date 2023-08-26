@@ -2,6 +2,7 @@
 layout: post
 title: Лучшие лампы ближнего и дальнего света на Ниву
 published: true
+last_modified_at: 2023-08-26
 ---
 
 Подборка лучших ламп для замены ближнего и дальнего света в Ниве.
@@ -25,12 +26,12 @@ published: true
 
 ### Быстрое сравнение: лучшие лампы ближнего и дальнего света для Нивы
 
-| Модель                     | Особенности                                    | Рейтинг | Ссылка                            |
-|----------------------------|------------------------------------------------|---------|-----------------------------------|
-| Philips X-treme Vision     | самые яркие, дают белый свет                   | ★★★★★   | [Купить](https://ya.cc/m/PV1cwG5)  |
-| Philips LongLife EcoVision | недорогие, увеличенный срок службы             | ★★★★☆   | [Купить](https://ya.cc/m/2Rw6kDT)   |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/zF5hoHL)   |
-| Osram Original Line        | хорошая зона освещения                         | ★★★★☆   | [Купить](https://ya.cc/m/VXVgFWF) |
+| Модель                     | Особенности                                    | Рейтинг | Ссылка                                                     |
+|----------------------------|------------------------------------------------|---------|------------------------------------------------------------|
+| Philips X-treme Vision     | самые яркие, дают белый свет                   | ★★★★★   | [Купить](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогие, увеличенный срок службы             | ★★★★☆   | [Купить](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1) |
+| Osram Original Line        | хорошая зона освещения                         | ★★★★☆   | [Купить](https://ya.cc/m/pdj0nuv?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision
 
@@ -65,7 +66,7 @@ published: true
 
 Победитель теста Auto Express. По результатам измерений граница яркого светового пятна — в 75 метрах от автомобиля.
 
-**[Узнать цены и наличие](https://ya.cc/m/PV1cwG5)**.
+**[Узнать цены и наличие](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Philips LongLife EcoVision — долговечные лампочки ближнего света на Ниву
@@ -90,7 +91,7 @@ published: true
 
 Что нам больше всего нравится: по цвету близки к штатным лампам, работать должны дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/2Rw6kDT)**.
+**[Узнать цены и наличие](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Bosch Pure light
@@ -116,7 +117,7 @@ published: true
 
 > Pure Light Bosch — типичная стандартная лампа. Все оценки — средние.
 
-**[Узнать цены и наличие](https://ya.cc/m/zF5hoHL)**.
+**[Узнать цены и наличие](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Osram Original Line
@@ -138,4 +139,4 @@ published: true
 
 Что нам больше всего нравится: недорогие, хороший срок службы, страна производства.
 
-**[Узнать цены и наличие](https://ya.cc/m/VXVgFWF)**.
+**[Узнать цены и наличие](https://ya.cc/m/pdj0nuv?erid=4CQwVszL78EMgDCNVA1)**.

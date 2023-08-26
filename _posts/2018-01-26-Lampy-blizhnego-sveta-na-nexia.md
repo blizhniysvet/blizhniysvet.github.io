@@ -3,6 +3,7 @@ layout: post
 title: Лучшие лампы ближнего и дальнего света на Daewoo Nexia
 published: true
 toc: true
+last_modified_at: 2023-08-26
 ---
 
 Выбираем лучшие лампы ближнего и дальнего света для Дэу Нексии.
@@ -28,12 +29,12 @@ toc: true
 
 ### Быстрое сравнение
 
-| Модель                     | Особенности                        | Рейтинг | Ссылка                          |
-|----------------------------|------------------------------------|---------|---------------------------------|
-| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/PV1cwG5) |
-| Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/2Rw6kDT) |
-| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/zF5hoHL) |
-| Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/VXVgFWF) |
+| Модель                     | Особенности                        | Рейтинг | Ссылка                                                     |
+|----------------------------|------------------------------------|---------|------------------------------------------------------------|
+| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1) |
+| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1) |
+| Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/pdj0nuv?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision
 
@@ -69,7 +70,7 @@ toc: true
 
 > Лучший выбор покупателя.
 
-**[Узнать цены и наличие](https://ya.cc/m/PV1cwG5)**.
+**[Узнать цены и наличие](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips LongLife EcoVision
 
@@ -95,7 +96,7 @@ toc: true
 
 Что нам больше всего нравится: по цвету близки к штатным лампам, работать должны дольше обычных лампочек.
 
-**[Узнать цены и наличие](https://ya.cc/m/2Rw6kDT)**.
+**[Узнать цены и наличие](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Bosch Pure Light
@@ -114,7 +115,7 @@ toc: true
 Что нам больше всего нравится: недорогие, известный производитель.
 
 
-**[Цена и наличие](https://ya.cc/m/zF5hoHL)**.
+**[Цена и наличие](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Osram Original Line
 
@@ -136,7 +137,7 @@ toc: true
 Что нам больше всего нравится: недорогие, хороший срок службы, страна производства.
 
 
-**[Узнать цены и наличие](https://ya.cc/m/VXVgFWF)**.
+**[Узнать цены и наличие](https://ya.cc/m/pdj0nuv?erid=4CQwVszL78EMgDCNVA1)**.
 
 ---
 
@@ -154,11 +155,11 @@ toc: true
 
 ### Быстрое сравнение: лучшие лампы ближнего света для Daewoo Nexia I
 
-| Модель                     | Особенности                                    | Рейтинг | Ссылка                          |
-|----------------------------|------------------------------------------------|---------|---------------------------------|
-| Philips X-treme Vision     | очень яркие                                    | ★★★★★   | [Купить](https://ya.cc/m/kL4z8Dv) |
-| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/qJ1zLUz) |
-| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/2LeMicI) |
+| Модель                     | Особенности                                    | Рейтинг | Ссылка                                                     |
+|----------------------------|------------------------------------------------|---------|------------------------------------------------------------|
+| Philips X-treme Vision     | очень яркие                                    | ★★★★★   | [Купить](https://ya.cc/m/U9o5QUY?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогие и долговечные                        | ★★★★☆   | [Купить](https://ya.cc/m/KH2OuZF?erid=4CQwVszL78EMgDCNVA1) |
+| Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/bWUEKOK?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision — самые яркие лампочки ближнего света
 
@@ -191,7 +192,7 @@ toc: true
 
 Победитель теста Auto Express. По результатам измерений граница яркого светового пятна — в 75 метрах от автомобиля.
 
-**[Узнать цены и наличие](https://ya.cc/m/kL4z8Dv)**.
+**[Узнать цены и наличие](https://ya.cc/m/U9o5QUY?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips LongLife EcoVision — долговечные лампы на Нексию
 
@@ -213,7 +214,7 @@ toc: true
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/qJ1zLUz)**.
+**[Узнать цены и наличие](https://ya.cc/m/KH2OuZF?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Bosch Pure light
@@ -239,7 +240,7 @@ toc: true
 
 > Pure Light Bosch — типичная стандартная лампа. Все оценки — средние.
 
-**[Узнать цены и наличие](https://ya.cc/m/2LeMicI)**.
+**[Узнать цены и наличие](https://ya.cc/m/bWUEKOK?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ---
@@ -256,11 +257,11 @@ toc: true
 
 ### Быстрое сравнение: лучшие лампы дальнего света на рестайлинговую Нексию 
 
-| Модель                     | Особенности                         | Рейтинг | Ссылка                          |
-|----------------------------|-------------------------------------|---------|---------------------------------|
-| Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/h4fbrnL) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/S3XaSx0) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Модель                     | Особенности                         | Рейтинг | Ссылка                                                     |
+|----------------------------|-------------------------------------|---------|------------------------------------------------------------|
+| Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/GkkVoGg?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Bosch Gigalight
 
@@ -273,7 +274,7 @@ toc: true
 
 Что нам больше всего нравится: яркий белый свет, и это же Бош!
 
-**[Узнать цены и наличие](https://ya.cc/m/h4fbrnL)**.
+**[Узнать цены и наличие](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips Vision
 
@@ -295,7 +296,7 @@ toc: true
 
 Что нам больше всего нравится: соотношение цена-качество.
 
-**[Узнать цены и наличие](https://ya.cc/m/S3XaSx0)**.
+**[Узнать цены и наличие](https://ya.cc/m/GkkVoGg?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Philips LongLife EcoVision
@@ -319,7 +320,7 @@ toc: true
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/jOKjrlZ)**.
+**[Узнать цены и наличие](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1)**.
 
 ---
 
@@ -337,12 +338,12 @@ toc: true
 
 ### Быстрое сравнение
 
-| Модель                     | Особенности                        | Рейтинг | Ссылка                          |
-|----------------------------|------------------------------------|---------|---------------------------------|
-| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/PV1cwG5) |
-| Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/2Rw6kDT) |
-| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/zF5hoHL) |
-| Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/VXVgFWF) |
+| Модель                     | Особенности                        | Рейтинг | Ссылка                                                     |
+|----------------------------|------------------------------------|---------|------------------------------------------------------------|
+| Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1) |
+| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1) |
+| Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/pdj0nuv?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision
 
@@ -378,7 +379,7 @@ toc: true
 
 > Лучший выбор покупателя.
 
-**[Узнать цены и наличие](https://ya.cc/m/PV1cwG5)**.
+**[Узнать цены и наличие](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips LongLife EcoVision
 
@@ -402,7 +403,7 @@ toc: true
 
 Что нам больше всего нравится: по цвету близки к штатным лампам, работать должны дольше обычных лампочек.
 
-**[Узнать цены и наличие](https://ya.cc/m/2Rw6kDT)**.
+**[Узнать цены и наличие](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Bosch Pure Light
@@ -421,7 +422,7 @@ toc: true
 Что нам больше всего нравится: недорогие, известный производитель.
 
 
-**[Цена и наличие](https://ya.cc/m/zF5hoHL)**.
+**[Цена и наличие](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Osram Original Line
 
@@ -443,4 +444,4 @@ toc: true
 Что нам больше всего нравится: недорогие, хороший срок службы, страна производства.
 
 
-**[Узнать цены и наличие](https://ya.cc/m/VXVgFWF)**.
+**[Узнать цены и наличие](https://ya.cc/m/pdj0nuv?erid=4CQwVszL78EMgDCNVA1)**.

@@ -3,7 +3,7 @@ layout: post
 title: Лучшие лампы ближнего и дальнего света на Киа Сид
 published: true
 toc: true
-last_modified_at: 2020-09-01
+last_modified_at: 2023-08-26
 ---
 
 Выбираем оптимальные лампы ближнего и дальнего света на Kia Cee’d всех поколений.
@@ -48,11 +48,11 @@ last_modified_at: 2020-09-01
 
 ### Быстрое сравнение: лучшие лампы H7 для Kia Cee’d
 
-| Модель                     | Особенности                      | Рейтинг | Ссылка                          |
-|----------------------------|----------------------------------|---------|---------------------------------|
-| Philips X-treme Vision     | ну, очень яркие                  | ★★★★★   | [Купить](https://ya.cc/m/kL4z8Dv) |
-| Philips LongLife EcoVision | недорогие и долговечные          | ★★★★☆   | [Купить](https://ya.cc/m/qJ1zLUz) |
-| Bosch Xenon Blue           | яркий свет бело-голубого оттенка | ★★★★☆   | [Купить](https://ya.cc/m/O0OQhd0) |
+| Модель                     | Особенности                      | Рейтинг | Ссылка                                                     |
+|----------------------------|----------------------------------|---------|------------------------------------------------------------|
+| Philips X-treme Vision     | ну, очень яркие                  | ★★★★★   | [Купить](https://ya.cc/m/U9o5QUY?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогие и долговечные          | ★★★★☆   | [Купить](https://ya.cc/m/KH2OuZF?erid=4CQwVszL78EMgDCNVA1) |
+| Bosch Xenon Blue           | яркий свет бело-голубого оттенка | ★★★★☆   | [Купить](https://ya.cc/m/zg5GOAm?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision — самые яркие лампочки
 
@@ -85,7 +85,7 @@ last_modified_at: 2020-09-01
 
 Победитель теста Auto Express. По результатам измерений граница яркого светового пятна — в 75 метрах от автомобиля.
 
-**[Узнать цены и наличие](https://ya.cc/m/kL4z8Dv)**.
+**[Узнать цены и наличие](https://ya.cc/m/U9o5QUY?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips LongLife EcoVision — долговечные лампы дальнего света на Сид
 
@@ -108,7 +108,7 @@ last_modified_at: 2020-09-01
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/qJ1zLUz)**.
+**[Узнать цены и наличие](https://ya.cc/m/KH2OuZF?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Bosch Xenon Blue
@@ -122,7 +122,7 @@ last_modified_at: 2020-09-01
 
 Что нам больше всего нравится: яркий бело-голубой свет, и это же Бош!
 
-**[Узнать цены и наличие](https://ya.cc/m/O0OQhd0)**.
+**[Узнать цены и наличие](https://ya.cc/m/zg5GOAm?erid=4CQwVszL78EMgDCNVA1)**.
 
 ---
 
@@ -135,11 +135,11 @@ last_modified_at: 2020-09-01
 
 ### Быстрое сравнение: лучшие лампы H1 на Kia Cee’d
 
-| Модель                     | Особенности                         | Рейтинг | Ссылка                          |
-|----------------------------|-------------------------------------|---------|---------------------------------|
-| Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/h4fbrnL) |
-| Philips Vision             | оптимальное отношение цена—качество | ★★★★★   | [Купить](https://ya.cc/m/S3XaSx0) |
-| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/jOKjrlZ) |
+| Модель                     | Особенности                         | Рейтинг | Ссылка                                                     |
+|----------------------------|-------------------------------------|---------|------------------------------------------------------------|
+| Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1) |
+| Philips Vision             | оптимальное отношение цена—качество | ★★★★★   | [Купить](https://ya.cc/m/GkkVoGg?erid=4CQwVszL78EMgDCNVA1) |
+| Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Bosch Gigalight
 
@@ -152,7 +152,7 @@ last_modified_at: 2020-09-01
 
 Что нам больше всего нравится: яркий белый свет, и это же Бош!
 
-**[Узнать цены и наличие](https://ya.cc/m/h4fbrnL)**.
+**[Узнать цены и наличие](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips Vision
 
@@ -176,7 +176,7 @@ last_modified_at: 2020-09-01
 
 Что нам больше всего нравится: больше света, чем у штатных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/S3XaSx0)**.
+**[Узнать цены и наличие](https://ya.cc/m/GkkVoGg?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Philips LongLife EcoVision
@@ -200,5 +200,5 @@ last_modified_at: 2020-09-01
 
 Что нам больше всего нравится: работать должны гораздо дольше обычных ламп.
 
-**[Узнать цены и наличие](https://ya.cc/m/jOKjrlZ)**.
+**[Узнать цены и наличие](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1)**.
 
