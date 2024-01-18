@@ -3,7 +3,7 @@ layout: post
 title: Лучшие лампы ближнего и дальнего света на Поло седан
 published: true
 toc: true
-last_modified_at: 2023-08-20
+last_modified_at: 2024-01-18
 ---
 
 Подборка лучших ламп для замены ближнего и дальнего света в Volkswagen Polo sedan. В конце статьи — сравнение цен.
@@ -171,6 +171,13 @@ last_modified_at: 2023-08-20
 | Narva Standard                |                    3200 |               1100 |            500 |
 | Philips LongLife EcoVision    |                    3200 |               1500 |       **1500** |
 | Philips X-treme Vision Pro150 |                **3600** |           **1650** |            450 |
+
+
+#### Памятка про лампы ближнего и дальнего света
+
+Для вашего удобства публикуем памятку.
+
+![Памятка Поло седан 2010](../../../images/polo-sedan-2010-bulbs-info.png)
 
 ---
 
