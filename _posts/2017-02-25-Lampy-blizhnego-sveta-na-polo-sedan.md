@@ -327,7 +327,7 @@ last_modified_at: 2024-08-18
 
 Для вашего удобства публикуем памятку.
 
-![Памятка Поло седан 2016](../../../volkswagen-polo-2016-bulbs-info.png)
+![Памятка Поло седан 2016](../../../images/volkswagen-polo-2016-bulbs-info.png)
 
 ---
 
