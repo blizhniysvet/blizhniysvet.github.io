@@ -71,8 +71,6 @@ last_modified_at: 2023-08-26
 
 ### Philips LongLife EcoVision — долговечные лампы на Ларгус
 
-{% include philips-eco-h4.html %}
-
 Особенности:
 
 - кварцевое стекло высокой прочности,

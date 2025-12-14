@@ -70,8 +70,6 @@ last_modified_at: 2023-08-26
 
 ### Philips LongLife EcoVision — долговечные лампы
 
-{% include philips-eco-h4.html %}
-
 Особенности:
 
 - кварцевое стекло высокой прочности,
@@ -270,8 +268,6 @@ last_modified_at: 2023-08-26
 | Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/ALCbGII?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision — самые яркие лампочки
-
-{% include philips-x-treme-h1.html %}
 
 Особенности, заявленные производителем:
 

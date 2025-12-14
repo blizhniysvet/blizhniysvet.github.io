@@ -152,8 +152,6 @@ last_modified_at: 2023-08-26
 
 ### Philips X-treme Vision — самые яркие лампочки
 
-{% include philips-x-treme-h1.html %}
-
 Особенности, заявленные производителем:
 
 - до 130 % более яркий белый свет,

@@ -37,8 +37,6 @@ last_modified_at: 2024-10-01
 
 ### Philips LongLife EcoVision
 
-{% include philips-eco-h4.html %}
-
 Особенности, заявленные производителем:
 
 - кварцевое стекло высокой прочности,

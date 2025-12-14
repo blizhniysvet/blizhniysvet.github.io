@@ -36,8 +36,6 @@ last_modified_at: 2024-08-18
 
 ### Philips X-treme Vision Pro150 H4 — самые яркие лампы для Гранты
 
-{% include philips-x-treme-vision-pro-150-h4.html %}
-
 Особенности, заявленные производителем:
 
 - яркий белый свет,
@@ -71,8 +69,6 @@ last_modified_at: 2024-08-18
 **[Узнать цены и наличие](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips LongLife EcoVision H4 — долговечные лампы на Гранту
-
-{% include philips-eco-h4.html %}
 
 Особенности:
 
@@ -185,8 +181,6 @@ last_modified_at: 2024-08-18
 | Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/0XtQ4rG?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips LongLife EcoVision H19
-
-{% include philips-eco-h19.html %}
 
 Особенности:
 

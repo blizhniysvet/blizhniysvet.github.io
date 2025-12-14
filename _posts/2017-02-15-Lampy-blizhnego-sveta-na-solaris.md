@@ -53,8 +53,6 @@ last_modified_at: 2023-08-26
 
 ### Philips LongLife EcoVision
 
-{% include philips-eco-h4.html %}
-
 Особенности:
 
 - кварцевое стекло высокой прочности,
@@ -156,8 +154,6 @@ last_modified_at: 2023-08-26
 
 
 ### Philips X-treme Vision Pro150
-
-{% include philips-x-treme-vision-pro-150-h4.html %}
 
 Особенности, заявленные производителем:
 
@@ -403,5 +399,3 @@ last_modified_at: 2023-08-26
 Что нам больше всего нравится: по цвету близки к штатным лампам, работать должны дольше обычных лампочек.
 
 **[Узнать цены и наличие](https://ya.cc/m/y6bJd35?erid=4CQwVszL78EMgDCNVA1)**.
-
-

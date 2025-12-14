@@ -49,8 +49,6 @@ last_modified_at: 2024-11-09
 
 ### Philips X-treme Vision — самые яркие лампочки на Фокус 1 (H4) 
 
-{% include philips-x-treme-vision-pro-150-h4.html %}
-
 Особенности, заявленные производителем:
 
 - яркий белый свет,
@@ -84,8 +82,6 @@ last_modified_at: 2024-11-09
 **[Узнать цены и наличие](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips LongLife EcoVision — долговечные лампы на Форд Фокус 1
-
-{% include philips-eco-h4.html %}
 
 Особенности:
 
@@ -203,8 +199,6 @@ last_modified_at: 2024-11-09
 | Bosch Pure light           | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/bWUEKOK?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision — самые яркие лампочки на рестайлинговый Ford Focus 1
-
-{% include philips-x-treme-h7.html %}
 
 Особенности, заявленные производителем:
 
@@ -381,8 +375,6 @@ last_modified_at: 2024-11-09
 **[Узнать цены и наличие](https://ya.cc/m/1XprhYr?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Bosch Gigalight
-
-{% include bosch-giga-plus-120-h1.html %}
 
 Особенности, заявленные производителем:
 
@@ -700,8 +692,6 @@ last_modified_at: 2024-11-09
 
 ### Philips X-treme Vision — самые яркие лампочки дальнего света на Форд Фокус 2
 
-{% include philips-x-treme-h1.html %}
-
 Особенности, заявленные производителем:
 
 - до 130 % более яркий белый свет,
@@ -734,8 +724,6 @@ last_modified_at: 2024-11-09
 **[Узнать цены и наличие](https://ya.cc/m/1XprhYr?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Bosch Gigalight
-
-{% include bosch-giga-plus-120-h1.html %}
 
 Особенности, заявленные производителем:
 
@@ -1132,8 +1120,6 @@ last_modified_at: 2024-11-09
 
 ### Osram Cool Blue Intense
 
-{% include osram-cbi-h15.html %}
-
 Особенности, заявленные производителем:
 
 - голубоватый белый свет, похожий на ксеноновый,
@@ -1152,6 +1138,8 @@ last_modified_at: 2024-11-09
 Артикул: 64176CBI
 
 Что нам больше всего нравится: яркий голубовато-белый свет, похожий на ксенон.
+
+**[Узнать цены и наличие](https://ya.cc/m/0S1R8rR?erid=4CQwVszL78EMgDCNVA1)**
 
 ### Philips Standart
 
@@ -1173,6 +1161,8 @@ last_modified_at: 2024-11-09
 
 Что нам больше всего нравится: характеристики, близкие к штатным лампам.
 
+**[Узнать цены и наличие](https://ya.cc/m/NADnJdg?erid=4CQwVszL78EMgDCNVA1)**
+
 ### Osram Original Line
 
 Особенности, заявленные производителем:
@@ -1192,6 +1182,8 @@ last_modified_at: 2024-11-09
 Артикул: 64176
 
 Что нам больше всего нравится: недорогие, хороший срок службы, страна производства.
+
+**[Узнать цены и наличие](https://ya.cc/m/78nddYy?erid=4CQwVszL78EMgDCNVA1)**
 
 ### Сравнение характеристик ламп дальнего света на Фокус 3
 

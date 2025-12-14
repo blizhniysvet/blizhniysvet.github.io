@@ -36,8 +36,6 @@ last_modified_at: 2025-09-29
 
 ### Philips X-treme Vision
 
-{% include philips-x-treme-vision-pro-150-h4.html %}
-
 Особенности, заявленные производителем:
 
 - яркий белый свет,
@@ -170,9 +168,6 @@ last_modified_at: 2025-09-29
 
 ### Philips X-treme Vision — самые яркие лампы ближнего света на Газель Бизнес
 
-{% include philips-x-treme-h7.html %}
-
-
 Особенности, заявленные производителем:
 
 - до 130 % более яркий белый свет,
@@ -291,8 +286,6 @@ last_modified_at: 2025-09-29
 
 ### Bosch Gigalight
 
-{% include bosch-giga-plus-120-h1.html %}
-
 Особенности, заявленные производителем:
 
 - до 120% больше света,
@@ -409,8 +402,6 @@ last_modified_at: 2025-09-29
 
 ### Philips LongLife EcoVision
 
-{% include philips-eco-h4.html %}
-
 Особенности, заявленные производителем:
 
 - кварцевое стекло высокой прочности,
@@ -459,8 +450,6 @@ last_modified_at: 2025-09-29
 
 
 ### Osram Original Line
-
-{% include osram-ol-h4.html %}
 
 Особенности, заявленные производителем:
 

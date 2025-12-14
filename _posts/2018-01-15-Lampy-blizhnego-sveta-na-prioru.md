@@ -36,8 +36,6 @@ last_modified_at: 2024-08-18
 
 ### Philips X-treme Vision — самые яркие лампы ближнего света на Приору H7
 
-{% include philips-x-treme-h7.html %}
-
 Особенности, заявленные производителем:
 
 - до 130 % более яркий белый свет,
@@ -177,8 +175,6 @@ last_modified_at: 2024-08-18
 | Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Bosch Gigalight
-
-{% include bosch-giga-plus-120-h1.html %}
 
 Особенности, заявленные производителем:
 
@@ -331,8 +327,6 @@ last_modified_at: 2024-08-18
 
 
 ### Osram Original Line
-
-{% include osram-ol-h15.html %}
 
 Особенности, заявленные производителем:
 
