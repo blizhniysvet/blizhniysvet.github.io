@@ -30,7 +30,6 @@ last_modified_at: 2023-08-26
 |----------------------------|------------------------------------|---------|------------------------------------------------------------|
 | Philips X-treme Vision     | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1) |
 | Philips LongLife EcoVision | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1) |
-| Bosch Pure Light           | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1) |
 | Osram Original Line        | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/pdj0nuv?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision — самые яркие лампа ближнего и дальнего света на Ларгус
@@ -107,8 +106,6 @@ last_modified_at: 2023-08-26
 
 Что нам больше всего нравится: недорогие, известный производитель.
 
-
-**[Цена и наличие](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Osram Original Line
 
@@ -231,7 +228,6 @@ last_modified_at: 2023-08-26
 
 | Модель                     | Особенности                         | Рейтинг | Ссылка                                                     |
 |----------------------------|-------------------------------------|---------|------------------------------------------------------------|
-| Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1) |
 | Philips Vision             | оптимальное отношение цена—качество | ★★★★★   | [Купить](https://ya.cc/m/GkkVoGg?erid=4CQwVszL78EMgDCNVA1) |
 | Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1) |
 
@@ -245,8 +241,6 @@ last_modified_at: 2023-08-26
 Страна производства — Венгрия.
 
 Что нам больше всего нравится: яркий белый свет, и это же Бош!
-
-**[Узнать цены и наличие](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips Vision
 

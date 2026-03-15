@@ -145,7 +145,6 @@ last_modified_at: 2023-08-26
 | Модель                     | Особенности                         | Рейтинг | Ссылка                                                     |
 |----------------------------|-------------------------------------|---------|------------------------------------------------------------|
 | Philips X-treme Vision     | ну, очень яркие                     | ★★★★★   | [Купить](https://ya.cc/m/1XprhYr?erid=4CQwVszL78EMgDCNVA1) |
-| Bosch Gigalight            | очень яркий белый свет              | ★★★★★   | [Купить](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1) |
 | Philips Vision             | оптимальное отношение цена—качество | ★★★★☆   | [Купить](https://ya.cc/m/GkkVoGg?erid=4CQwVszL78EMgDCNVA1) |
 | Philips LongLife EcoVision | недорогие и долговечные             | ★★★★☆   | [Купить](https://ya.cc/m/zQIvB7o?erid=4CQwVszL78EMgDCNVA1) |
 | Osram Original Line        | универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/ALCbGII?erid=4CQwVszL78EMgDCNVA1) |
@@ -193,8 +192,6 @@ last_modified_at: 2023-08-26
 Страна производства — Венгрия.
 
 Что нам больше всего нравится: яркий белый свет, и это же Бош!
-
-**[Узнать цены и наличие](https://ya.cc/m/gNSFcgR?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Philips Vision
 

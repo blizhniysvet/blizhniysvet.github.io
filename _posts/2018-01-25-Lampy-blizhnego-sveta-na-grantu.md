@@ -31,7 +31,6 @@ last_modified_at: 2024-08-18
 |-------------------------------|------------------------------------|---------|------------------------------------------------------------|
 | Philips X-treme Vision Pro150 | самые яркие, дают белый свет       | ★★★★★   | [Купить](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1) |
 | Philips LongLife EcoVision    | недорогая, увеличенный срок службы | ★★★★☆   | [Купить](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1) |
-| Bosch Pure Light              | увеличенный срок службы            | ★★★★☆   | [Купить](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1) |
 | Osram Original Line           | хорошая зона освещения             | ★★★★☆   | [Купить](https://ya.cc/m/pdj0nuv?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision Pro150 H4 — самые яркие лампы для Гранты
@@ -118,8 +117,6 @@ last_modified_at: 2024-08-18
 - сбалансированный результат.
 
 > Pure Light Bosch — типичная стандартная лампа. Все оценки — средние.
-
-**[Цена и наличие](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1)**.
 
 ### Osram Original Line H4
 

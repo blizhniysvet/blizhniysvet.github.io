@@ -33,7 +33,6 @@ last_modified_at: 2024-08-18
 |-------------------------------|------------------------------------------------|---------|------------------------------------------------------------|
 | Philips X-treme Vision Pro150 | самые яркие, дают белый свет                   | ★★★★★   | [Купить](https://ya.cc/m/0jznWJW?erid=4CQwVszL78EMgDCNVA1) |
 | Philips LongLife EcoVision    | недорогие, увеличенный срок службы             | ★★★★☆   | [Купить](https://ya.cc/m/sPkHVtx?erid=4CQwVszL78EMgDCNVA1) |
-| Bosch Pure light              | недорогие, универсальная замена штатным лампам | ★★★★☆   | [Купить](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1) |
 | Narva Standard                | увеличенная яркость                            | ★★★★☆   | [Купить](https://ya.cc/m/zYibM2v?erid=4CQwVszL78EMgDCNVA1) |
 
 ### Philips X-treme Vision Pro150
@@ -122,7 +121,6 @@ last_modified_at: 2024-08-18
 
 > Pure Light Bosch — типичная стандартная лампа. Все оценки — средние.
 
-**[Узнать цены и наличие](https://ya.cc/m/EOhDtgt?erid=4CQwVszL78EMgDCNVA1)**.
 
 
 ### Narva Standard
